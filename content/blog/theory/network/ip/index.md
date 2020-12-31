@@ -1,5 +1,5 @@
 ---
-title: 네트워크 기본 지식 - IP
+title: TIL | 네트워크 기본 지식 - IP
 date: "2020-12-31T22:12:03.284Z"
 description: "IP 주소와 IP 통신에 대해 알아보자"
 ---
